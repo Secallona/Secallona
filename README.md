@@ -1,11 +1,12 @@
 # Bienvenido/a a mi repositorio de GitHub
 
-## ¡Hola! Soy Secallona, también puedes encontrarme en distintas redes como cayusob o simplemente Carlos, un estudiante de primer año de programación. Este es mi repositorio personal donde compartiré mis proyectos y ejercicios relacionados con los lenguajes de programación que vaya aprendiendo, de momento contamos con estos🤓: Java, HTML, CSS, y BASH. 🚀
-### Sobre mí
+### ¡Hola! Soy Secallona, también puedes encontrarme en distintas redes como cayusob o simplemente Carlos, un estudiante de primer año de programación. Este es mi repositorio personal donde compartiré mis proyectos y ejercicios relacionados con los lenguajes de programación que vaya aprendiendo, de momento contamos con estos🤓: Java, HTML, CSS, y BASH. 🚀
 
-    Nombre: Carlos Ayuso
-    Estudiante de: Desarrollo de Aplicacones Multiplataforma (DAM)
-    Lenguajes de programación: Java, HTML, CSS, BASH
+## Sobre mí
+
+### Nombre: Carlos Ayuso
+### Estudiante de: Desarrollo de Aplicacones Multiplataforma (DAM)
+### Lenguajes de programación: Java, HTML, CSS, BASH
 
 # Objetivo
 
@@ -17,7 +18,9 @@
 
 ### Si necesitas contactarme o simplemente quieres charlar, no dudes en contactarme:
 
-    Email: cayusob@gmail.com 📧
-    Twitter: @ayayayuso 🐦
+### Email 📧: 
+    cayusob@gmail.com 
+### Twitter🐦 :
+    @ayayayuso 
 
 ¡Gracias por visitar mi repositorio! ¡Vuelve pronto para ver actualizaciones! 👋
