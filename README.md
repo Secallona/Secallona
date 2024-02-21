@@ -24,3 +24,4 @@
     @ayayayuso 
 
 ¡Gracias por visitar mi repositorio! ¡Vuelve pronto para ver actualizaciones! 👋
+![Fiona and Lua](FionaLua.jpg)
