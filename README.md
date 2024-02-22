@@ -14,9 +14,9 @@
 
 ### Github States
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=klee1611&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  ![Secallona's Stats](https://github-readme-stats.vercel.app/api?username=Secallona&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klee1611&exclude_repo=klee1611.github.io&layout=compact&theme=apprentice" alt="Top langs">
+ ![Secallona's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Secallona&theme=vue-dark&hide_border=true)
 </p>
 
 ### Interests
