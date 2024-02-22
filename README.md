@@ -24,7 +24,7 @@
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >I'm currently studying DAM, specializing in JAVA, Bash and MySQL
 </p>
 
 
