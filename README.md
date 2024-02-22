@@ -14,9 +14,9 @@
 
 ### Github States
 <p align="center"> 
-  ![Secallona's Stats](https://github-readme-stats.vercel.app/api?username=Secallona&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=Secallona&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="github states"> 
   <br>
- ![Secallona's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Secallona&theme=vue-dark&hide_border=true)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Secallona&theme=vue-dark&hide_border=true" alt="Top langs">
 </p>
 
 ### Interests
